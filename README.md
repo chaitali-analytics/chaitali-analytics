@@ -72,6 +72,6 @@ Git | GitHub
 
 📧 Email: cjbioinformatics@gmail.com
 
-💼 LinkedIn: (https://www.linkedin.com/in/chaitali-jadhav-971622380/)
+💼 LinkedIn: https://www.linkedin.com/in/chaitali-jadhav-971622380/
 
 🐙 GitHub: https://github.com/chaitali-analytics
