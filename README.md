@@ -1,6 +1,8 @@
 # Hi, I'm Chaitali Jadhav 👋
 
-Data Analyst and Machine Learning Practitioner passionate about transforming raw data into actionable insights and intelligent systems.
+Data Analyst and Machine Learning Practitioner specializing in Predictive Analytics, Healthcare AI, Computer Vision, and Computational Biology.
+
+Passionate about building data-driven solutions that transform complex datasets into actionable insights and intelligent systems.
 
 My work spans:
 
@@ -55,7 +57,27 @@ Git | GitHub
 
 📌 End-to-End ML Workflow Experience
 
-## Currently Exploring
+## Featured Projects
+
+🛡 Fraud Detection Using Machine Learning
+Built anomaly detection and classification models for identifying suspicious financial transactions.
+
+🩺 Thyroid Cancer Recurrence Prediction
+Developed a healthcare AI system for predicting recurrence risk using clinical features.
+
+🤟 American Sign Language (ASL) Recognition
+Implemented a deep learning-based gesture recognition system using computer vision techniques.
+
+🐾 Animal Image Classification
+Built a transfer learning pipeline using MobileNetV2 for multi-class animal image recognition.
+
+🫀 Liver Cirrhosis Stage Detection
+Compared multiple ML algorithms for multi-stage disease classification.
+
+❤️ Heart Disease Prediction
+Developed predictive models using feature engineering and gradient boosting methods.
+
+## Current Focus
 
 🔬 Healthcare Analytics
 
