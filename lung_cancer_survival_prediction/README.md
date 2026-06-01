@@ -41,7 +41,7 @@ The dataset contains information such as:
 
 ---
 
-# 🔧 Data Preprocessing
+#  Data Preprocessing
 
 ## 1. Data Cleaning
 
