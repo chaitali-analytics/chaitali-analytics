@@ -1,4 +1,4 @@
-# 📱 Mobile Phone Price Range Prediction
+#  Mobile Phone Price Range Prediction
 
 ## Overview
 
