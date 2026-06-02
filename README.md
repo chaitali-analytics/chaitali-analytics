@@ -45,49 +45,49 @@ Git | GitHub
 
 ## Portfolio Snapshot
 
-📌 10+ Machine Learning Projects
+10+ Machine Learning Projects
 
-📌 6 Healthcare AI Projects
+6 Healthcare AI Projects
 
-📌 3 Computer Vision Projects
+3 Computer Vision Projects
 
-📌 15+ Classification Models Evaluated
+15+ Classification Models Evaluated
 
-📌 Experience with XGBoost, LightGBM, CatBoost, CNNs and Transfer Learning
+Experience with XGBoost, LightGBM, CatBoost, CNNs and Transfer Learning
 
-📌 End-to-End ML Workflow Experience
+End-to-End ML Workflow Experience
 
 ## Featured Projects
 
-🛡 Fraud Detection Using Machine Learning
+Fraud Detection Using Machine Learning
 Built anomaly detection and classification models for identifying suspicious financial transactions.
 
-🩺 Thyroid Cancer Recurrence Prediction
+Thyroid Cancer Recurrence Prediction
 Developed a healthcare AI system for predicting recurrence risk using clinical features.
 
-🤟 American Sign Language (ASL) Recognition
+American Sign Language (ASL) Recognition
 Implemented a deep learning-based gesture recognition system using computer vision techniques.
 
-🐾 Animal Image Classification
+Animal Image Classification
 Built a transfer learning pipeline using MobileNetV2 for multi-class animal image recognition.
 
-🫀 Liver Cirrhosis Stage Detection
+Liver Cirrhosis Stage Detection
 Compared multiple ML algorithms for multi-stage disease classification.
 
-❤️ Heart Disease Prediction
+Heart Disease Prediction
 Developed predictive models using feature engineering and gradient boosting methods.
 
 ## Current Focus
 
-🔬 Healthcare Analytics
+Healthcare Analytics
 
-📈 Data Analytics & Business Intelligence
+Data Analytics & Business Intelligence
 
-🤖 Explainable AI (XAI)
+Explainable AI (XAI)
 
-🧠 Deep Learning & Computer Vision
+Deep Learning & Computer Vision
 
-🧬 Computational Biology
+Computational Biology
 
 
 ## Connect With Me
